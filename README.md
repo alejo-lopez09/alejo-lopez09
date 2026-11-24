@@ -1,13 +1,15 @@
-
+<div align="center">
+  <img src="banner.svg" width="100%" alt="Banner de Alejandro López">
+</div>
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,50:38D996,100:9B7BFF&height=3&section=header" width="100%"/>
 
-# `whoami`
+
 
 # Alejandro López
 
-### Junior Backend Developer | Técnico en Sistemas Informáticos
+### Técnico en Sistemas Informáticos
 
 Desarrollo de soluciones de software eficientes, seguras y escalables.
 
