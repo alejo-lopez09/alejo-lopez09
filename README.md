@@ -1,80 +1,74 @@
 <div align="center">
-  <img src="banner.svg" width="100%" alt="Banner de Alejandro López">
-</div>
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,50:38D996,100:9B7BFF&height=3&section=header" width="100%"/>
+<img src="assets/banner.svg" width="100%" alt="Banner de Alejandro López: desarrollador backend junior"/>
 
-
-
-# Alejandro López
-
-### Técnico en Sistemas Informáticos
-
-Desarrollo de soluciones de software eficientes, seguras y escalables.
-
-[LinkedIn](https://linkedin.com/) · [GitHub](https://github.com/alejo-lopez09) · [Email](mailto:TU_CORREO)
+<a href="https://github.com/alejo-lopez09">GitHub</a> ·
+<a href="mailto:TU_CORREO">Correo electrónico</a> ·
+<a href="TU_LINKEDIN">LinkedIn</a>
 
 </div>
 
----
+<img src="assets/h-01-sobre-mi.svg" width="100%" alt="01 Sobre mí"/>
 
-## `01 // Sobre mí`
+Soy desarrollador en formación, con interés en el desarrollo backend, la construcción de aplicaciones y el diseño de soluciones útiles.
 
-Soy desarrollador backend junior con formación en desarrollo de sistemas informáticos.
+Me gusta comprender cómo funcionan los sistemas, resolver problemas y aprender mediante proyectos prácticos. Actualmente estoy fortaleciendo mis conocimientos de programación, bases de datos y buenas prácticas de desarrollo.
 
-Me interesa construir aplicaciones robustas, trabajar con bases de datos y automatizar procesos para resolver problemas reales.
+<img src="assets/h-02-tecnologias.svg" width="100%" alt="02 Tecnologías y habilidades"/>
 
-Actualmente estoy fortaleciendo mis conocimientos en arquitectura de software, desarrollo backend y buenas prácticas de programación.
-
----
-
-## `02 // Tecnologías y habilidades`
-
-### Backend & Databases
-
+### Programación y desarrollo
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Tools & DevOps
-
+### Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
+<img src="assets/h-03-proyectos.svg" width="100%" alt="03 Proyectos destacados"/>
 
-## `03 // Proyectos destacados`
+### MediSalud
+Aplicación de gestión de citas médicas desarrollada con Java y MySQL. Incluye organización por capas y conexión a una base de datos.
 
-- **MediSalud**  
-  Sistema de gestión de citas médicas desarrollado con Java, MySQL y Docker.
+### CrediYa
+Sistema de cobro de cartera con operaciones de registro, consulta y gestión de pagos.
 
-- **CrediYa**  
-  Sistema de gestión de cobros de cartera con operaciones CRUD y conexión a MySQL.
+### Academia
+Proyecto de aplicación backend con Spring Boot y persistencia en MySQL.
 
-- **Academia**  
-  Aplicación backend desarrollada con Spring Boot.
+### Hotel El Rincón del Carmen
+Aplicación web con HTML, CSS y JavaScript para la gestión de habitaciones y reservas.
 
----
+<img src="assets/h-04-experiencia.svg" width="100%" alt="04 Experiencia"/>
 
-## `04 // GitHub Stats`
+Experiencia práctica en proyectos académicos y desarrollo de aplicaciones. En esta sección puedes añadir empleos, prácticas o colaboraciones verificables.
+
+<img src="assets/h-05-formacion.svg" width="100%" alt="05 Formación académica"/>
+
+- Formación técnica en programación y desarrollo de sistemas.
+- Formación en desarrollo de software y programación backend.
+
+> Ajusta los nombres oficiales de tus títulos, instituciones y fechas antes de publicar.
+
+<img src="assets/h-06-certificaciones.svg" width="100%" alt="06 Certificaciones"/>
+
+Añade aquí tus certificaciones, cursos y constancias relevantes, con institución y fecha.
+
+<img src="assets/h-07-idiomas.svg" width="100%" alt="07 Idiomas"/>
+
+- Español: nativo.
+- Inglés: nivel intermedio en desarrollo.
+
+<img src="assets/h-08-contacto.svg" width="100%" alt="08 Contacto"/>
+
+- Correo: `TU_CORREO`
+- LinkedIn: `TU_LINKEDIN`
+- GitHub: [alejo-lopez09](https://github.com/alejo-lopez09)
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=alejo-lopez09&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejo-lopez09&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-`Building. Learning. Improving.`
-
+<img src="assets/footer.svg" width="100%" alt="Pie de perfil"/>
 </div>
