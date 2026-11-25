@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 62" width="1000" height="62" role="img" aria-label="Certificaciones">
+<defs><linearGradient id="a"><stop stop-color="#22d3ee"/><stop offset=".55" stop-color="#4ade80"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs>
+<rect x="1" y="1" width="998" height="60" rx="14" fill="#0d1117" stroke="#22d3ee" stroke-opacity=".35"/>
+<rect x="10" y="7" width="58" height="48" rx="9" fill="url(#a)"/>
+<text x="39" y="38" text-anchor="middle" font-family="Consolas,monospace" font-size="20" font-weight="700" fill="#08111b">06</text>
+<text x="88" y="39" font-family="Consolas,monospace" font-size="25" font-weight="700" fill="#e6edf3">// Certificaciones</text>
+<path d="M650 31H950" stroke="url(#a)" stroke-width="2" opacity=".8"/><circle cx="970" cy="31" r="5" fill="#4ade80"/>
+</svg>
