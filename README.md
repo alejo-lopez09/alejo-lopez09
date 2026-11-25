@@ -3,8 +3,8 @@
 <img src="assets/banner.svg" width="100%" alt="Banner de Alejandro López: desarrollador backend junior"/>
 
 <a href="https://github.com/alejo-lopez09">GitHub</a> ·
-<a href="mailto:TU_CORREO">Correo electrónico</a> ·
-<a href="TU_LINKEDIN">LinkedIn</a>
+<a href="mailto:alejitolopez19900109@gmail.com">Correo electrónico</a> ·
+<a href="https://www.linkedin.com/in/alejandro-lopez-quintero-010b69394">LinkedIn</a>
 
 </div>
 
